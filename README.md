@@ -120,7 +120,7 @@ cd daily-planner-app
 ```
 
 ### 🌐 Live Daily Planner App
-► [Daily Planner App](https://pmadriaan.github.io/daily-planner-app/)
+► [Daily Planner App]((https://wraith3110.github.io/Work_day_scheduler/))
 
 
 ### 📸 Daily Planner App Screenshot
