@@ -22,8 +22,8 @@
     - [🌐 Live Demo Daily Planner App](#-live-demo-daily-planner-app)
     - [📸 Daily Planner App Screenshot ](#-daily-planner-app-screenshot)
 - [🛣 Project Roadmap](#-project-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+
+
 
 ---
 
@@ -166,12 +166,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ---
 
-## 📄 License
 
-
-Copyright © 2023 Mihai Pirvu.
-
-This project is licensed under the `ℹ️ MIT-License`. See the [MIT License](https://github.com/pmAdriaan/daily-planner-app/blob/main/LICENSE) file for additional info.
 
 [**Return**](#Top)
 
